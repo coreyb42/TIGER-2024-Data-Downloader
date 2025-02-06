@@ -24,7 +24,7 @@ pip install requests beautifulsoup4 tqdm
 ## Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/tiger2024-downloader.git
+   git clone https://github.com/coreyb42/TIGER-2024-Data-Downloader.git
    cd tiger2024-downloader
    ```
 
